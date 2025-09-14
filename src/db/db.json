@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Practical Concrete Fish",
+    "price": "840.39",
+    "category": "Clothing"
+  },
+  {
+    "name": "Gorgeous Gold Gloves",
+    "price": "865.95",
+    "category": "Kids"
+  },
+  {
+    "name": "Bespoke Wooden Mouse",
+    "price": "813.50",
+    "category": "Kids"
+  },
+  {
+    "name": "Elegant Ceramic Fish",
+    "price": "375.03",
+    "category": "Tools"
+  },
+  {
+    "name": "Generic Bronze Salad",
+    "price": "78.89",
+    "category": "Toys"
+  },
+  {
+    "name": "Frozen Marble Chair",
+    "price": "855.39",
+    "category": "Automotive"
+  },
+  {
+    "name": "Intelligent Bamboo Bike",
+    "price": "546.55",
+    "category": "Books"
+  },
+  {
+    "name": "Incredible Plastic Keyboard",
+    "price": "309.79",
+    "category": "Automotive"
+  },
+  {
+    "name": "Rustic Granite Pants",
+    "price": "513.95",
+    "category": "Clothing"
+  }
+]
